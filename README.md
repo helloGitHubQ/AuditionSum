@@ -16,3 +16,6 @@
 [基础](https://github.com/helloGitHubQ/AuditionSum/blob/master/docs/base/base.md)
 
 [框架](https://github.com/helloGitHubQ/AuditionSum/blob/master/docs/base/spring.md)
+
+## 项目
+项目介绍，自己做了什么，用什么技术实现的。
