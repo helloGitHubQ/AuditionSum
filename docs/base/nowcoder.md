@@ -28,3 +28,5 @@
 [牛客网20190711](https://www.evernote.com/l/AjiDhWdRbBhN_Kz8HrLHHv2TzLAbBNMRGMw/)
 
 [牛客网20190712](https://www.evernote.com/l/AjjraGzV0T5Kx61e4jt2_ijUwUEQrsjbMzY/)
+
+[牛客网20190714](https://www.evernote.com/l/AjgFLczmY51DKYlZ8V1z46N2Ue619MXgjNM/)
