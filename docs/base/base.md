@@ -1,36 +1,39 @@
 # 基础
----
-[2019 最新 200 道 Java 面试题](https://www.evernote.com/l/Aji75Kg9655JO49jZav_ytyRKTPXzLMawYs/)
 
-[关于Java面试，你应该准备这些知识点](https://www.evernote.com/l/AjgQmTmKTR5N4ojS7iZP-EnGuJveq1vRlos/)
+:one:	JDK JRE JVM的关系
 
-[各类面试题汇总，这些搞懂了，何愁无Offer？](https://www.evernote.com/l/Ajg85RD8KntDq7UvY5xsmBnPEr7kly1W0IU/)
+:two: 	foreach循环结构
 
-[阿里，百度，腾讯等一线互联网公司中，Java开发的招聘标准](https://www.evernote.com/l/AjgjVQVE5R1Jn6RU40_bfaNL7tKpUH4SeQY/)
+:three: 	数组的扩容和缩容
 
-[Java 程序员必须掌握的 8 道数据结构面试题，你会几道？](https://www.evernote.com/l/AjiD--3otTlJgrdRp1J71mpaziyCZftBgWo/)
+:four: 	this和super的区别
 
----
-[成为Java顶尖程序员，先过了下面问题！](https://www.evernote.com/l/AjhEOKSU2SVJZ7E3gEud_cX9vdlB33PAwM0/)
+:five: 	重写和重载的区别
 
-[值得看｜30道Redis面试题，面试官能问的都被我找到了](https://www.evernote.com/l/Ajgimd8tPZRF8qGhwV4ocCuq9S4ACnpF9Ws/)
+:six: 	创建对象的过程
 
-[史上最全 50 道 Redis 面试题](https://www.evernote.com/l/Ajieh8AsCOtNMIQSpIVIT3e8y6YFg8s_qvQ/)
+:seven:  	向上转型和向下转型
 
-[程序员都应该知道的10大算法](https://www.evernote.com/l/Ajg9uqD7dZhGuKl8FhRS6vPY0AruMaXOkFM/)
+:eight:	 静态变量和实例变量的区别
 
-[解构「阿里P8高级架构师」必备的开发能力](https://www.evernote.com/l/Ajj8NIPe-ytGoapo19C8SixLMYcxDZuO9-0/)
+:nine:	 abstract 注意事项：
 
----
-[3 年 Java 应该具备的技能体系](https://www.evernote.com/l/AjjvyypWg4VGY4fwZP2yaEPzybMtklRFG_U/)
+:keycap_ten: 	抽象类和接口的区别
 
-[Java程序员常见的10大错误](https://www.evernote.com/l/AjjAPps-SoNL4JO9p2hmXsljRfaULmpToxs/)
+ ==和equals的区别
 
-[Java 工程师成神之路 | 2019正式版](https://www.evernote.com/l/Ajgj91aktTVEcJaXa6g25jqZ-tdYPGKmCtA/)
+StringBuffer和StringBuilder的区别
 
-[Java面试常问计算机网络问题](https://www.evernote.com/l/AjgMGzNXVUlFpIO-yIxEpu6UywFLyYhl6Es/)
+自动拆箱和自动装箱
 
-[6 道 BATJ 必考的 Java 面试题](https://www.evernote.com/l/AjijYBOv_b1AvIGtUUsMf9CGlhOaC9UPajg/)
+字符流和字节流的区别
 
----
-[Java最常见的208道面试题及答案](https://zhuanlan.zhihu.com/p/64147696)
+
+
+JVM启动是单线程还是多线程？
+
+
+
+
+
+什么是面向对象？:smiley:

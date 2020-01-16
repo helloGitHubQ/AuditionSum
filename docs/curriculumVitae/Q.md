@@ -21,11 +21,10 @@
 
 * <font face="黑体" size=4>负责需求要开发完成的功能和向客户展示自己的系统.</font>
 
-
 ---
 <font face="黑体" size=5>项目经历</font>
 ---
-<font face="黑体" size=4>**2018.09-2019.02 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;绍兴市职业能力信息系统&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java开发**</font>
+<font face="黑体" size=4>**2018.09-2019.02 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;111&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java开发**</font>
 
  <font face="黑体" size=4>**项目描述:**</font>
 
@@ -37,7 +36,7 @@
 
 <font face="黑体" size=4>**&&**</font>
 
-<font face="黑体" size=4>**2018.06-2018.08 &nbsp;&nbsp;&nbsp;湖州市公共就业综合信息管理系统升级(大市集中)&nbsp;&nbsp;&nbsp;Java开发**</font>
+<font face="黑体" size=4>**2018.06-2018.08 &nbsp;&nbsp;&nbsp;222&nbsp;&nbsp;&nbsp;Java开发**</font>
 
 <font face="黑体" size=4>**项目描述:**</font>
 
@@ -49,12 +48,10 @@
 
 <div STYLE="page-break-after: always;"></div>
 
-
 ---
 <font face="黑体" size=5>在校经历</font>
 ---
-<font face="黑体" size=4>**2014.09-2018.06 &nbsp;&nbsp;浙江海洋大学东海科学技术学院(本科) &nbsp;&nbsp;计算机科学与技术专业**</font>
-
+<font face="黑体" size=4>**2014.09-2018.06 &nbsp;&nbsp;33学院(本科) &nbsp;&nbsp;44**</font>
 
 <font face="黑体" size=4>2017年<玩具小屋>app在全国大学生互联网"互联网+"创新大赛上获得华东赛区二等奖</font>
 
