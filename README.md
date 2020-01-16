@@ -22,6 +22,12 @@
 ## 项目
 项目介绍，自己做了什么，用什么技术实现的。
 
+## 面试记录
+
+- [BOSS](https://github.com/helloGitHubQ/AuditionSum/blob/master/docs/notes/BOSS.md)
+- [拉钩](https://github.com/helloGitHubQ/AuditionSum/blob/master/docs/notes/lagou.md)
+- [智联](https://github.com/helloGitHubQ/AuditionSum/blob/master/docs/notes/zhilian.md)
+
 ## :warning:注意事项
 
 [注意事项](https://github.com/helloGitHubQ/AuditionSum/blob/master/docs/base/precautions.md)
